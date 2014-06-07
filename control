@@ -1,0 +1,9 @@
+Package: com.dekesto.nosearchcancel
+Name: NoSearchCancel
+Depends: mobilesubstrate, firmware (>= 7)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Hide the Spotlight cancel button
+Maintainer: Dekesto
+Author: Dekesto
+Section: Tweaks
